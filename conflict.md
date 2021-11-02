@@ -1,2 +1,4 @@
-sup gamers print("hi")
+sup gamers !
 <_<
+
+siin oli confict aga lahendatud
