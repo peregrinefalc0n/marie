@@ -1,2 +1,2 @@
-sup gamers
+sup gamers print("hi")
 <_<
